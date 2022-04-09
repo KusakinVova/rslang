@@ -1,7 +1,8 @@
-task - https://github.com/rolling-scopes-school/tasks/blob/master/tasks/stage-2/rs-lang/rslang.md
-Deploy: rslang-learn-app.netlify.app
-Done 22.02.2022 / deadline 22.02.2022
-Score: 620 / 620
+1. Task - https://github.com/rolling-scopes-school/tasks/blob/master/tasks/stage-2/rs-lang/rslang.md
+2. ![image](https://user-images.githubusercontent.com/36926728/155027866-e45d712b-1031-4c7c-b223-e159a55f2d59.png)
+3. Deploy: [rslang-learn-app.netlify.app](https://rslang-learn-app.netlify.app/)
+4. Done 22.02.2022 / deadline  22.02.2022 
+5. Score: 620 / 620
 
 # rslang
 Список технологий, фреймворков и библиотек, которые были использованы при создании приложения:
